@@ -1,0 +1,120 @@
+{
+    "attachments": [
+        {
+            "data_filename": "1127973.png",
+            "original_filename": "enhancedHeader.png",
+            "thumb_filename": "thumbs\/1127973.jpg"
+        },
+        {
+            "data_filename": "1127974.png",
+            "original_filename": "enhancedTacho-BIG.png",
+            "thumb_filename": "thumbs\/1127974.jpg"
+        }
+    ],
+    "resource_id": 27982,
+    "current_version_id": 54094,
+    "download_count": 0,
+    "resource_version_id": 54385,
+    "version_string": "3.5.1",
+    "last_update": 1713427560,
+    "rating_avg": 4.45161,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 10,
+    "resource_date": 1692178505,
+    "review_count": 33,
+    "tag_line": "New design - Wheel & Air Speed - Max & RT Torque\/Power - Weight - Fuel Consum. - Odo",
+    "update_count": 5,
+    "path": "MZBCK5PAN\/54094\/",
+    "filename": "YDeltagon_Tacho3.zip",
+    "title": "enhancedTacho: Stylish Interface, Superior Information - Real-Time Vehicle Monitoring",
+    "user_id": 516823,
+    "username": "YDeltagon",
+    "tagid": "MZBCK5PAN",
+    "message": "[SIZE=1]Tacho with New design - Wheel & Air Speed - Max & RT Torque\/Power - Weight - Fuel Consum. - Odometer[\/SIZE]\n[ATTACH]1127973[\/ATTACH] \n[SIZE=5][B]enhancedTacho[\/B] is an advanced version of the Tacho2 application from the base game\n[URL='https:\/\/www.beamng.com\/resources\/enhanced-tachometer.27289\/'][B]Enhanced Tachometer and Forced Induction[\/B][\/URL] & [URL='https:\/\/www.beamng.com\/resources\/simple-power-weight-ratio.23693\/'][B]Simple power, weight, ratio[\/B][\/URL] integrated | [I]Thanks to[\/I] [URL='https:\/\/www.beamng.com\/members\/nutunabe.541038\/'][I]nutunabe[\/I][\/URL] [I]and[\/I] [URL='https:\/\/www.beamng.com\/members\/fylhtq7779.133344\/'][I]fylhtq7779[\/I][\/URL][\/SIZE]\n\n\n[SIZE=7][COLOR=rgb(255, 0, 0)][B]IMPORTANT[\/B][\/COLOR][\/SIZE]\n[SIZE=5][B]UNLOAD\/UNSUBSCRIBE\/DELETE \"[\/B]Enhanced Tachometer and Forced Induction[B]\" & \"[\/B]Simple power, weight, ratio[B]\"[\/B][\/SIZE]\n\n[SIZE=7][COLOR=rgb(255, 0, 0)][B]IMPORTANT\u00b2[\/B][\/COLOR][\/SIZE]\n[SIZE=5][B]Now, V3 automatically replaces the \"Tacho2\" in the default game UI[\/B]\nThere is [B]no need[\/B] to [B]adjust your UI[\/B] settings to accommodate this mod, as it [B]directly overwrites[\/B] the default \"[B]Tacho2[\/B]\" UI\n\n[B]However, to avoid any bugs, please restart the game after installing the mod before you start playing![\/B][\/SIZE]\n\n\n[SIZE=6][B]Full explain[\/B][\/SIZE]\n[ATTACH]1127974[\/ATTACH] \n\n\n[B][B][SIZE=7]v3.5 - Review-back\n[B][SIZE=6]is Back[\/SIZE][\/B][\/SIZE][\/B]\n[LIST]\n[*][SIZE=5]Version classic is BACK[\/SIZE]\n[LIST]\n[*][SIZE=5]If you want to use this version, look for it in UI-Apps[\/SIZE]\n[\/LIST]\n[*][SIZE=5]Power in real-time is BACK[\/SIZE]\n[*][SIZE=5]Layout rework[\/SIZE]\n[\/LIST]\n[SIZE=5][\/SIZE]\n[B][SIZE=7]v3.0 - Lite, Opti and New Features[\/SIZE]\n[SIZE=6]Features[\/SIZE][\/B]\n[LIST]\n[*][SIZE=5][B][COLOR=rgb(255, 165, 0)]MAX Power[\/COLOR][\/B] > ORANGE[\/SIZE]\n[*][SIZE=5][B][COLOR=rgb(0, 0, 255)]MAX Torque[\/COLOR][\/B] > BLUE[\/SIZE]\n[*][SIZE=5][B][COLOR=rgb(0, 255, 0)]Weight[\/COLOR][\/B] > GREEN[\/SIZE]\n[*][SIZE=5][B]ABS[\/B][\/SIZE]\n[LIST]\n[*][SIZE=5]Disabled if the car is not equipped with it[\/SIZE]\n[\/LIST]\n[*][SIZE=5][B]UI Apps[\/B] [\/SIZE]\n[LIST]\n[*][SIZE=5]ET3 overrides the default 'Tacho2'[\/SIZE]\n[\/LIST]\n[*][SIZE=5][B]Version[\/B][\/SIZE]\n[LIST]\n[*][SIZE=5]Only V2[\/SIZE]\n[\/LIST]\n[\/LIST]\n[SIZE=6][B]Delete[\/B][\/SIZE]\n[LIST]\n[*][B][SIZE=5]Power in real-time[\/SIZE][\/B]\n[*][B][SIZE=5]Torque in real-time[\/SIZE][\/B]\n[*][SIZE=5][B]Glow with Light [\/B][\/SIZE]\n[LIST]\n[*][SIZE=5][I]very lagy[\/I][\/SIZE]\n[\/LIST]\n[*][B][SIZE=5]V1 and classic[\/SIZE][\/B]\n[\/LIST]\n[B][SIZE=7]v2.0 - FUSION[\/SIZE][\/B]\n[SIZE=6][B]Features[\/B][\/SIZE][\/B]\n[LIST]\n[*][B][SIZE=5][B]Air Speed[\/B][\/SIZE][\/B][SIZE=5] (ultra-precise GPS speed)[\/SIZE]\n[*][B][SIZE=5][B]Power in real-time[\/B][\/SIZE][\/B][SIZE=5] (at the flywheel) [HP][\/SIZE]\n[*][B][SIZE=5][B]MAX Power[\/B][\/SIZE][\/B][SIZE=5] (at the flywheel) [HP][\/SIZE]\n[*][B][SIZE=5][B]Torque in real-time[\/B][\/SIZE][\/B][SIZE=5] (at the flywheel) [NM][\/SIZE]\n[*][B][SIZE=5][B]MAX Torque[\/B][\/SIZE][\/B][SIZE=5] (at the flywheel) [NM][\/SIZE]\n[*][B][SIZE=5][B]Fuel Consumption[\/B][\/SIZE][\/B][SIZE=5] l\/100km[\/SIZE]\n[*][B][SIZE=5][B]Maximum Gearbox[\/B][\/SIZE][\/B][SIZE=5][B] Max of your gearbox[\/B] (4\/5\/6...)[\/SIZE]\n[*][B][SIZE=5]Oil text Temperature[\/SIZE][\/B]\n[*][B][SIZE=5]Weight in real-time[\/SIZE][\/B]\n[\/LIST]\n[B][B][SIZE=5][\/SIZE][\/B][\/B]\n[SIZE=6][B]Download[\/B][\/SIZE]\n[SIZE=5]The application is directly available on the [URL='https:\/\/beamng.com\/resources\/enhancedtacho-stylish-interface-superior-information-real-time-vehicle-monitoring.27982\/']BeamNG repository[\/URL]\n[\/SIZE]\n[SIZE=6][B]Note[\/B][\/SIZE]\n[SIZE=5]This is my first mod, please be kind\nYour feedback is greatly appreciated\n[\/SIZE]\n[SIZE=6][B]Feedback and Contributions[\/B][\/SIZE]\n[SIZE=5]If you have ideas, suggestions, contributions, or if you encounter any errors, please open an [URL='https:\/\/github.com\/YDeltagon\/BeamNG_Tacho3\/issues']Issue[\/URL]\/[URL='https:\/\/github.com\/YDeltagon\/BeamNG_Tacho3\/pulls']Pulls[\/URL], or, post a [URL='https:\/\/beamng.com\/resources\/enhancedtacho-stylish-interface-superior-information-real-time-vehicle-monitoring.27982\/reviews']Review[\/URL]\n[\/SIZE]\n[SIZE=6][B]License[\/B][\/SIZE]\n[SIZE=5]This project is licensed under the MIT License - see the [URL='https:\/\/github.com\/YDeltagon\/BeamNG_Tacho3\/blob\/master\/LICENSE.md']LICENSE.md[\/URL] file for details\nIt's completely open-source, and contributions are welcome ![\/SIZE]\n\n[SIZE=6][B]Credits:[\/B][\/SIZE]\n[B][SIZE=4]beamng.ui-Team[\/SIZE][\/B]\n[URL='https:\/\/www.beamng.com\/resources\/authors\/nutunabe.541038\/'][B][SIZE=4]nutunabe[\/SIZE][\/B][\/URL]\n[URL='https:\/\/www.beamng.com\/members\/fylhtq7779.133344'][B][SIZE=4]fylhtq7779[\/SIZE][\/B][\/URL]\n[SIZE=4][B][URL='https:\/\/www.twitch.tv\/YDeltagon']YDeltagon[\/URL][\/B]\n\n[B][SIZE=6][B]Support:[\/B][\/SIZE][\/B][\/SIZE]\n[SIZE=4][B][URL='https:\/\/www.paypal.com\/donate\/?hosted_button_id=ZE33LD38M4ALN']PayPal[\/URL][\/B][\/SIZE]",
+    "category_title": "",
+    "prefix_title": "",
+    "via": "packed by repo on Thu, 25 Apr 2024 22:02:01 GMT",
+    "hashes": [
+        [
+            "ui\/common\/EnhancedTacho\/controllers.js",
+            "8802516a7a28a5ed"
+        ],
+        [
+            "ui\/common\/EnhancedTacho\/models.js",
+            "cfc43f02f85f1dcd"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2Classic\/app.svg",
+            "f56aa31140d55ac3"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2Classic\/app.js",
+            "3f9591dcc5dad5f6"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2Classic\/app.css",
+            "eaaf1974efc08fc7"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2Classic\/app.png",
+            "ec292246f0cfe0cb"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2Classic\/svg-script.js",
+            "da0feb4ed9e74366"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2Classic\/app.json",
+            "8da927e0ae86efb1"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2\/app.svg",
+            "2bd4dae2775d509b"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2\/app.js",
+            "be94af1093df7ead"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2\/app.css",
+            "eaaf1974efc08fc7"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2\/app.png",
+            "840a3afaa240d951"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2\/svg-script.js",
+            "25b07dcc704ffb80"
+        ],
+        [
+            "ui\/modules\/apps\/Tacho2\/app.json",
+            "9072d4649b36ed43"
+        ],
+        [
+            "ui\/modules\/apps\/Forcedinduction\/app.svg",
+            "fa36d4f2f0dd2bef"
+        ],
+        [
+            "ui\/modules\/apps\/Forcedinduction\/app.js",
+            "2642e5a58698dd64"
+        ],
+        [
+            "ui\/modules\/apps\/Forcedinduction\/app.css",
+            "3768cc9b2a11f6cc"
+        ],
+        [
+            "ui\/modules\/apps\/Forcedinduction\/app.png",
+            "bbec31858a2fe6fc"
+        ],
+        [
+            "ui\/modules\/apps\/Forcedinduction\/svg-script.js",
+            "356a5684b637454f"
+        ],
+        [
+            "ui\/modules\/apps\/Forcedinduction\/app.json",
+            "4462824871c5178d"
+        ]
+    ]
+}
